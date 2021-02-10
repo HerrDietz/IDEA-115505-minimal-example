@@ -1,6 +1,6 @@
 # Read me
 
-This is a minimal example for [IDEA-115505](https://youtrack.jetbrains.com/issue/IDEA-115505).
+This is a minimal example for [IDEA-175469](https://youtrack.jetbrains.com/issue/IDEA-175469).
 
 ## Expected behavior
 
